@@ -28,7 +28,7 @@ Back-end — Conceitos e práticas
 Banco de Dados
 MySQL — Básico
 Ferramentas
-Git
+Git e
 GitHub
 ## 🔐 Áreas de interesse
 Back-end
