@@ -18,17 +18,17 @@ Tecnólogo em TI
 ETEC — Concluído
 
 ## 💻 Tecnologias e conhecimentos
-Linguagens
-JavaScript — Básico
-Python — Básico
-SQL — Básico
-Desenvolvimento
-Front-end — Conceitos e práticas
-Back-end — Conceitos e práticas
-Banco de Dados
-MySQL — Básico
-Ferramentas
-Git e
+Linguagens: 
+Básico JavaScript — 
+Básico Python — 
+Básico SQL — 
+Básico Desenvolvimento 
+Front-end — Conceitos e práticas 
+Back-end — Conceitos e práticas 
+Banco de Dados 
+MySQL — Básico 
+Ferramentas 
+Git e 
 GitHub
 ## 🔐 Áreas de interesse
 Back-end
